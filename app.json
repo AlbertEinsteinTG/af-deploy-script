@@ -1,0 +1,42 @@
+{
+    "name": "Deploying Script",
+    "description": "A Script",
+    "logo": "https://telegra.ph/file/667e15c821117633d07bd.png",
+    "keywords": [],
+    "website": "https://github.com/CrazyBotsz",
+    "repository": "https://github.com/AlbertEinsteinTG/af-deploy-script",
+    "success_url": "https://telegram.dog/CrazyBotsz",
+    "env": {
+        "APP_ID": {
+            "description": "Your APP ID From my.telegram.org or @UseTGXBot",
+            "value": ""
+        },
+        "API_HASH": {
+            "description": "Your API Hash From my.telegram.org or @UseTGXBot",
+            "value": ""
+        },
+        "BOT_TOKEN": {
+            "description": "Your Bot Token From @BotFather",
+            "value": ""
+        },
+        "DB_URI": {
+            "description": "Your Mongo DB URL Obtained From mongodb.com",
+            "value": ""
+        },
+        "USER_SESSION": {
+            "description": "A Pyrogram User Session String. Generated From @getstr_bot",
+            "value": ""
+        }
+    },
+    "buildpacks": [
+        {
+            "url": "heroku/python"
+        }
+    ],
+    "formation": {
+        "worker": {
+            "quantity": 1,
+            "size": "free"
+        }
+    }
+}
