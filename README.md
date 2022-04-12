@@ -9,7 +9,7 @@
 
 Deploy to heroku.
 <p align="center">
-<a href="https://heroku.com/deploy?template=https://github.com/AlbertEinsteinTG/af-deploy-script">
+<a href="https://heroku.com/deploy?template=">
   <img src="https://www.herokucdn.com/deploy/button.svg" alt="Deploy">
 </a>
 </p>
