@@ -4,7 +4,7 @@
     "logo": "https://telegra.ph/file/667e15c821117633d07bd.png",
     "keywords": [],
     "website": "https://github.com/CrazyBotsz",
-    "repository": "https://github.com/AlbertEinsteinTG/af-deploy-script",
+    "repository": "https://github.com/itzshyam/af-deploy-script",
     "success_url": "https://telegram.dog/CrazyBotsz",
     "env": {
         "APP_ID": {
