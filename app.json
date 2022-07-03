@@ -7,7 +7,7 @@
     "repository": "https://github.com/AlbertEinsteinTG/af-deploy-script",
     "success_url": "https://telegram.dog/CrazyBotsz",
     "env": {
-        "APP_ID": {
+        "APP_ID": {18005337
             "description": "Your APP ID From my.telegram.org or @UseTGXBot",
             "value": ""
         },
