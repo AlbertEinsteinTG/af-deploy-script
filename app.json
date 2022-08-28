@@ -4,8 +4,8 @@
     "logo": "https://telegra.ph/file/667e15c821117633d07bd.png",
     "keywords": [],
     "website": "https://github.com/CrazyBotsz",
-    "repository": "https://github.com/AlbertEinsteinTG/af-deploy-script",
-    "success_url": "https://telegram.dog/CrazyBotsz",
+    "repository": "https://github.com/AzhagumanikandanG/Adv-Auto-Filter-Bot-V2",
+    "success_url": "https://telegram.dog/Azhaguck",
     "env": {
         "APP_ID": {
             "description": "Your APP ID From my.telegram.org or @UseTGXBot",
