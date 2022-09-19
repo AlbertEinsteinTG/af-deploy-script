@@ -30,7 +30,7 @@
     },
     "buildpacks": [
         {
-            "url": "heroku/python"
+            "url": "https://git.heroku.com/movie-filter.git"
         }
     ],
     "formation": {
